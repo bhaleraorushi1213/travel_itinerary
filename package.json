@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "docker": "^1.0.0",
+    "express-validator": "^7.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
